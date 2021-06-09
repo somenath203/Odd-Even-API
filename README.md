@@ -37,4 +37,4 @@ python app.py
 ```
 Now, the server will start running.
 
-After running the server, we will get a localhost url link in the terminal for eg. http://127.0.0.1:8000/. Copy the link from the terminal and paste it in the browser and press enter key to open the Web Todo List.
+After running the server, we will get a localhost url link in the terminal for eg. http://127.0.0.1:8000/. Copy the link from the terminal and paste it in the browser and press enter key to open the Odd Even Detector website.
