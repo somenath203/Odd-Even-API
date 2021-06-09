@@ -33,7 +33,7 @@ pip install flask
 After installing flask, write
 
 ```
-python app.py
+python basicrestapi.py
 ```
 Now, the server will start running.
 
